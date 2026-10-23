@@ -1,0 +1,8 @@
+bin/
+obj/
+dist/
+portable/
+*.zip
+*.pdb
+*.user
+*.suo

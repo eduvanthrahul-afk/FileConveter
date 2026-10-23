@@ -1,0 +1,10 @@
+<Application x:Class="OrbitConvert.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             ShutdownMode="OnExplicitShutdown">
+  <Application.Resources>
+    <Color x:Key="Ink">#FF252231</Color>
+    <Color x:Key="MutedInk">#FF797586</Color>
+    <Color x:Key="Accent">#FF6747D8</Color>
+  </Application.Resources>
+</Application>
