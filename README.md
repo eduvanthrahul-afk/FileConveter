@@ -1,5 +1,11 @@
 # OrbitConvert
 
+## Download the Windows app
+
+[Download the complete Windows x64 package](OrbitConvert-Windows-x64.zip). Extract the ZIP, then run `OrbitConvert.exe`. Keep the included DLL files in the same folder as the EXE.
+
+This build is unsigned, so Windows Smart App Control may block it.
+
 OrbitConvert is a Windows tray utility. Launch it and the translucent circle opens in the center of the screen. Hold a file in Explorer, press **Shift**, and move the file onto the circle. Its format wedges appear; release on a wedge to convert, or release in the center and click a format. The app writes a new file beside the original with `.converted` in its name.
 
 ## Offline behavior and supported formats
